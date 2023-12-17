@@ -97,4 +97,4 @@ Proportion: 0.7377
 
 ![](images/CA_direction.jpeg)
 
-Many of these binary comparisions ended up with very close acceptance rates. The exploration of acceptance by occupation appeared to be promiosiung at first, but when the outliers were explored they represented a small portion of the total peopel int he data set. Arguably the two biggest factors imapcting coupon acceptance for the carry out category are the timing - afternoon 80.77% and the weather - sunny at 76%. Compared with the average in the total data (73.77%) for this coupon type they appear to provide insight at a simple, binary level. 
+Many of these binary comparisions ended up with very close acceptance rates. The exploration of acceptance by occupation appeared to be promisiung at first, but when the outliers were explored they represented a small portion of the total people in the data set. Arguably the two biggest factors imapcting coupon acceptance for the carry out category are the timing - afternoon 80.77% and the weather - sunny at 76%. Compared with the average in the total data (73.77%) for this coupon type they appear to provide insight at a simple, binary level. 
