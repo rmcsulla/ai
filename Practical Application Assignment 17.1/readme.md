@@ -22,7 +22,7 @@ In order to improve the model I built out parameter sets for each type of model 
 
 The test and train scores and optimal parameters are as follows:
 
-**logistic regression:**
+**Logistic Regression:**
 Test: 0.8728680136447127
 Train: 0.8736114755532232
 Best Score: 0.8735677396203319
