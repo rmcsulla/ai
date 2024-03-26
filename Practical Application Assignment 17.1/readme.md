@@ -18,26 +18,26 @@ In order to improve the model I build out parameter sets for each type of model 
 
 The test and train scores and optimal parameters are as followsd:
 
-logistic regression:
+**logistic regression:**
 Test: 0.8728680136447127
 Train: 0.8736114755532232
 Best Score: 0.8735677396203319
 Penalty: l1
 Solver: liblinear
 
-KNN
+**KNN**
 Test: 0.8723432170034112
 Train: 0.8734802763928977
 Best Score: 0.8733053776319266
 n_neighbors: 50
 
-Decision Tree
+**Decision Tree**
 Test: 0.8728680136447127
 Train: 0.8736114755532232
 Best Score: 0.8736114745864374
 Criterion: gini
 
-SVC
+**SVC**
 Test: 0.8728680136447127
 Train: 0.8736114755532232
 Best Score: 0.8736114745864374
